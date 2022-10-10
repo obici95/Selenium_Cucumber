@@ -1,0 +1,17 @@
+
+@wip
+Feature: US1002 Kullanici ortak adimlari Background ile calistirir
+
+  Background: ortak adim
+    Given kullanici amazon anasayfasinda
+
+  Scenario: TC04 amazon nutella arama
+    And kullanici Nutella icin arama yapar
+    Then souclarin Nutella icerdigini test eder
+    And sayfayi kapatir
+
+
+  Scenario: TC05 amazon Java arama
+    And kullanici Java icin arama yapar
+    Then souclarin Java icerdigini test eder
+    And sayfayi kapatir
