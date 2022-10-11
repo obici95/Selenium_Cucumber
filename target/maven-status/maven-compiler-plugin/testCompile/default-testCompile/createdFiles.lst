@@ -1,0 +1,4 @@
+stepDefinitions\datatablesStepDefinitions.class
+stepDefinitions\BRCStepDefinition.class
+pages\BRCPage.class
+pages\DataTablesPage.class
