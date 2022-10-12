@@ -1,4 +1,9 @@
 stepDefinitions\datatablesStepDefinitions.class
+utilities\ReusableMethods$1.class
+stepDefinitions\OdenBRCStepDefinition.class
+utilities\ReusableMethods.class
+pages\HerokuAppPage.class
+stepDefinitions\HerokuAppStepDefinitions.class
 stepDefinitions\BRCStepDefinition.class
 pages\BRCPage.class
 pages\DataTablesPage.class
