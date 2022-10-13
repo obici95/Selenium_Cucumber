@@ -2,6 +2,7 @@ C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\pages\AmazonPage.jav
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\stepDefinitions\datatablesStepDefinitions.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\stepDefinitions\OdenBRCStepDefinition.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\pages\HerokuAppPage.java
+C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\pages\PracticeTestPage.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\runners\Runner.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\stepDefinitions\AmazonStepDefinition.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\pages\BRCPage.java
@@ -9,5 +10,6 @@ C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\pages\DataTablesPage
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\utilities\ReusableMethods.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\stepDefinitions\BRCStepDefinition.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\utilities\Driver.java
+C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\stepDefinitions\PracticeTestPageStepDefiniton.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\stepDefinitions\HerokuAppStepDefinitions.java
 C:\Users\90505\IdeaProjects\c.batch81Cucumber\src\test\java\utilities\ConfigReader.java

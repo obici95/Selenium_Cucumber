@@ -6,4 +6,6 @@ pages\HerokuAppPage.class
 stepDefinitions\HerokuAppStepDefinitions.class
 stepDefinitions\BRCStepDefinition.class
 pages\BRCPage.class
+pages\PracticeTestPage.class
 pages\DataTablesPage.class
+stepDefinitions\PracticeTestPageStepDefiniton.class
