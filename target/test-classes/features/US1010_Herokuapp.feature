@@ -1,5 +1,6 @@
 Feature: US1010 herokuapp Delete Testi
 
+  @heroku
   Scenario: TC15 heroapp'dan delete butonu calismali
 
     Given kullanici "herokuappUrl" anasayfasinda

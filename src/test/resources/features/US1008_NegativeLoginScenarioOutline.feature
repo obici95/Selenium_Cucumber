@@ -1,5 +1,6 @@
 Feature: US1008 kullanici yanlis sifre ve kullanici adiyla giris yapamaz
-  
+
+  @negative
   Scenario Outline: Scenario Outline: TC13 yanlis kullanici adi ve sifrelerle giris yapilamaz
     
     Given kullanici "brcUrl" anasayfasinda

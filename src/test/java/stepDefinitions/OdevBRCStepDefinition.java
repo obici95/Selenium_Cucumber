@@ -8,7 +8,7 @@ import pages.BRCPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 
-public class OdenBRCStepDefinition {
+public class OdevBRCStepDefinition {
 
         BRCPage brcPage=new BRCPage();
 
